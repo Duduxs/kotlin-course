@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ed7caf6-1b04-4efd-b49a-8c52f5e7713e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculator/calculator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/application.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/domain/user/User.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/repository/userRepository/userRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mwixT1Q17nMnCH2tn0NTr2VnlB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Kotlin.CalculatorKt">
+    <configuration name="ApplicationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="curso" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="main.kotlin.ApplicationKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="curso" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="calculator.CalculatorKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.CalculatorKt" />
+        <item itemvalue="Kotlin.ApplicationKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ed7caf6-1b04-4efd-b49a-8c52f5e7713e" name="Default Changelist" comment="" />
+      <created>1610411301118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610411301118</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2763" y="99" width="1024" height="842" key="#Project_Structure" timestamp="1610411349445">
+      <screen x="2560" y="92" width="1440" height="900" />
+    </state>
+    <state x="2763" y="99" width="1024" height="842" key="#Project_Structure/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@2560.92.1440.900" timestamp="1610411349445" />
+    <state x="4418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610665387502">
+      <screen x="4000" y="0" width="1920" height="1080" />
+    </state>
+    <state x="4418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610665387502" />
+    <state width="1878" height="340" key="GridCell.Tab.0.bottom" timestamp="1610670350265">
+      <screen x="4000" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="340" key="GridCell.Tab.0.bottom/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610670350265" />
+    <state width="1878" height="340" key="GridCell.Tab.0.center" timestamp="1610670350265">
+      <screen x="4000" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="340" key="GridCell.Tab.0.center/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610670350265" />
+    <state width="1878" height="340" key="GridCell.Tab.0.left" timestamp="1610670350265">
+      <screen x="4000" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="340" key="GridCell.Tab.0.left/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610670350265" />
+    <state width="1878" height="340" key="GridCell.Tab.0.right" timestamp="1610670350265">
+      <screen x="4000" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="340" key="GridCell.Tab.0.right/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610670350265" />
+    <state width="0" height="0" key="GridCell.Tab.1.bottom" timestamp="1610670350235">
+      <screen x="4000" y="0" width="1920" height="1080" />
+    </state>
+    <state width="0" height="0" key="GridCell.Tab.1.bottom/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610670350235" />
+    <state width="0" height="0" key="GridCell.Tab.1.center" timestamp="1610670350235">
+      <screen x="4000" y="0" width="1920" height="1080" />
+    </state>
+    <state width="0" height="0" key="GridCell.Tab.1.center/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610670350235" />
+    <state width="0" height="0" key="GridCell.Tab.1.left" timestamp="1610670350235">
+      <screen x="4000" y="0" width="1920" height="1080" />
+    </state>
+    <state width="0" height="0" key="GridCell.Tab.1.left/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610670350235" />
+    <state width="0" height="0" key="GridCell.Tab.1.right" timestamp="1610670350235">
+      <screen x="4000" y="0" width="1920" height="1080" />
+    </state>
+    <state width="0" height="0" key="GridCell.Tab.1.right/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610670350235" />
+    <state x="2943" y="276" width="672" height="678" key="search.everywhere.popup" timestamp="1610411633818">
+      <screen x="2560" y="92" width="1440" height="900" />
+    </state>
+    <state x="2943" y="276" width="672" height="678" key="search.everywhere.popup/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@2560.92.1440.900" timestamp="1610411633818" />
+  </component>
+</project>
