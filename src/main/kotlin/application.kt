@@ -29,6 +29,10 @@ fun main() {
 
 class hasInitBlock(val name: String? = "nothing", val number: Int? = 5, val boolean: Boolean = false){
 
+    //companion
+
+    //object
+    // extension function
     init{
         println("Faz algo quando a classe é instanciada! $name, $number, $boolean")
     }

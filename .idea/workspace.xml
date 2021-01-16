@@ -20,17 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ed7caf6-1b04-4efd-b49a-8c52f5e7713e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calculator/calculator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/application.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/domain/user/User.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/repository/userRepository/userRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculator/main/CalculatorExecutor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/curso/META-INF/curso.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/curso/META-INF/curso.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculator/calculator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/Calculator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/application.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/application.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +36,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin Enum" />
       </list>
     </option>
   </component>
@@ -68,7 +64,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Kotlin.CalculatorKt">
+  <component name="RunManager" selected="Kotlin.CalculatorExecutorKt">
     <configuration name="ApplicationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="curso" />
       <option name="VM_PARAMETERS" />
@@ -77,6 +73,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="main.kotlin.ApplicationKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorExecutorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="curso" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="calculator.main.CalculatorExecutorKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,6 +106,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CalculatorExecutorKt" />
         <item itemvalue="Kotlin.CalculatorKt" />
         <item itemvalue="Kotlin.ApplicationKt" />
       </list>
@@ -134,38 +144,42 @@
       <screen x="4000" y="0" width="1920" height="1080" />
     </state>
     <state x="4418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610665387502" />
-    <state width="1878" height="340" key="GridCell.Tab.0.bottom" timestamp="1610670350265">
+    <state width="1259" height="315" key="GridCell.Tab.0.bottom" timestamp="1610757608617">
+      <screen x="0" y="0" width="2560" height="952" />
+    </state>
+    <state width="1259" height="315" key="GridCell.Tab.0.bottom/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@0.0.2560.952" timestamp="1610757608617" />
+    <state width="1878" height="340" key="GridCell.Tab.0.bottom/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610670804100" />
+    <state width="1259" height="315" key="GridCell.Tab.0.center" timestamp="1610757608617">
+      <screen x="0" y="0" width="2560" height="952" />
+    </state>
+    <state width="1259" height="315" key="GridCell.Tab.0.center/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@0.0.2560.952" timestamp="1610757608617" />
+    <state width="1878" height="340" key="GridCell.Tab.0.center/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610670804099" />
+    <state width="1259" height="315" key="GridCell.Tab.0.left" timestamp="1610757608617">
+      <screen x="0" y="0" width="2560" height="952" />
+    </state>
+    <state width="1259" height="315" key="GridCell.Tab.0.left/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@0.0.2560.952" timestamp="1610757608617" />
+    <state width="1878" height="340" key="GridCell.Tab.0.left/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610670804099" />
+    <state width="1259" height="315" key="GridCell.Tab.0.right" timestamp="1610757608617">
+      <screen x="0" y="0" width="2560" height="952" />
+    </state>
+    <state width="1259" height="315" key="GridCell.Tab.0.right/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@0.0.2560.952" timestamp="1610757608617" />
+    <state width="1878" height="340" key="GridCell.Tab.0.right/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610670804099" />
+    <state width="1878" height="340" key="GridCell.Tab.1.bottom" timestamp="1610670804100">
       <screen x="4000" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="340" key="GridCell.Tab.0.bottom/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610670350265" />
-    <state width="1878" height="340" key="GridCell.Tab.0.center" timestamp="1610670350265">
+    <state width="1878" height="340" key="GridCell.Tab.1.bottom/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610670804100" />
+    <state width="1878" height="340" key="GridCell.Tab.1.center" timestamp="1610670804100">
       <screen x="4000" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="340" key="GridCell.Tab.0.center/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610670350265" />
-    <state width="1878" height="340" key="GridCell.Tab.0.left" timestamp="1610670350265">
+    <state width="1878" height="340" key="GridCell.Tab.1.center/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610670804100" />
+    <state width="1878" height="340" key="GridCell.Tab.1.left" timestamp="1610670804100">
       <screen x="4000" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="340" key="GridCell.Tab.0.left/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610670350265" />
-    <state width="1878" height="340" key="GridCell.Tab.0.right" timestamp="1610670350265">
+    <state width="1878" height="340" key="GridCell.Tab.1.left/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610670804100" />
+    <state width="1878" height="340" key="GridCell.Tab.1.right" timestamp="1610670804100">
       <screen x="4000" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="340" key="GridCell.Tab.0.right/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610670350265" />
-    <state width="0" height="0" key="GridCell.Tab.1.bottom" timestamp="1610670350235">
-      <screen x="4000" y="0" width="1920" height="1080" />
-    </state>
-    <state width="0" height="0" key="GridCell.Tab.1.bottom/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610670350235" />
-    <state width="0" height="0" key="GridCell.Tab.1.center" timestamp="1610670350235">
-      <screen x="4000" y="0" width="1920" height="1080" />
-    </state>
-    <state width="0" height="0" key="GridCell.Tab.1.center/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610670350235" />
-    <state width="0" height="0" key="GridCell.Tab.1.left" timestamp="1610670350235">
-      <screen x="4000" y="0" width="1920" height="1080" />
-    </state>
-    <state width="0" height="0" key="GridCell.Tab.1.left/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610670350235" />
-    <state width="0" height="0" key="GridCell.Tab.1.right" timestamp="1610670350235">
-      <screen x="4000" y="0" width="1920" height="1080" />
-    </state>
-    <state width="0" height="0" key="GridCell.Tab.1.right/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610670350235" />
+    <state width="1878" height="340" key="GridCell.Tab.1.right/0.0.2560.952/2560.92.1440.900/4000.0.1920.1080@4000.0.1920.1080" timestamp="1610670804100" />
     <state x="2943" y="276" width="672" height="678" key="search.everywhere.popup" timestamp="1610411633818">
       <screen x="2560" y="92" width="1440" height="900" />
     </state>
